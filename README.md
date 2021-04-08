@@ -7,4 +7,5 @@
 ##### "Fracasso é uma possibilidade. Se as coisas não estão fracassando, você não está inovando o suficiente." 
 
 🏠 From SP
+
 💻 Graduating in Information Systems
