@@ -9,3 +9,8 @@
 🏠 From SP
 
 💻 Graduating in Information Systems
+
+<div align="left">
+  <a href="https://github.com/SouzaLuis">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLuis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
