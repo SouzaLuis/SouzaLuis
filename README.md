@@ -1,6 +1,12 @@
 # Hi, i'm Luís Souza 🖖
  
+ <a href="https://github.com/SouzaLuis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaLuis&theme=dracula&show_icons=true" />
+</a>
+ 
 ![](https://komarev.com/ghpvc/?username=SouzaLuis&color=006bed)
+
+<br/>
 
 <h3> 👨‍💻: &nbsp;About me </h3>
 
@@ -15,11 +21,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLuis&theme=dracula&hide_langs_below=1" />
 </a>
 
-<br/>
 
-<a href="https://github.com/SouzaLuis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaLuis&theme=dracula&show_icons=true" />
-</a>
+
+
 
 <br/>
 
