@@ -12,6 +12,10 @@
 <br/>
 
 <a href="https://github.com/SouzaLuis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLuis&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/SouzaLuis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaLuis&theme=dracula&show_icons=true" />
 </a>
 
