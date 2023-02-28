@@ -19,7 +19,7 @@
 
 <h3> :earth_americas: &nbsp;Where find me: </h3> 
 
-[![Linkedin: Luis Fernando Alves de Souza](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luissouzadev)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:luisfernandoalvesdesouza0123@gmail.com)
-[![SouzaLuis]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/SouzaLuis))
+[![Linkedin: Luis Fernando Alves de Souza](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luissouzadev)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/luissouzadev))
+[![Gmail Badge](https://img.shields.io/badge/-luisfernandoalvesdesouza0123@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfernandoalvesdesouza0123@gmail.com)](mailto:luisfernandoalvesdesouza0123@gmail.com)
+[![SouzaLuis]( https://img.shields.io/github/followers/SouzaLuis?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/SouzaLuis))
  
