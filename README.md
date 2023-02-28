@@ -6,8 +6,6 @@
  
 ![](https://komarev.com/ghpvc/?username=SouzaLuis&color=006bed)
 
-<br/>
-
 <h3> 👨‍💻: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies to improve myself every day.
