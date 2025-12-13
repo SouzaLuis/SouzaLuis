@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Graduated in  **Information Systems** on <a href="[link da sua faculdade](https://www.fafram.com.br/)">FAFRAM</a>.
 - 🎓 &nbsp; Specialist in  **Software Engineering** on <a href="[link da sua faculdade]([https://www.fafram.com.br/](https://www.pucminas.br/destaques/Paginas/default.aspx))">PUC-MG</a>.
 - 💼 &nbsp; Im a **Middle Software Developer** on <a href="[LINK DA EMPRESA](https://www.simova.com.br/home-simova-english)">SIMOVA</a>
-- 🌱 &nbsp; Learning more about **Laravel and PHP**.
+- 🌱 &nbsp; Learning more about **Laravel, PHP, React, Node.js and Javascript**.
 
 <br/>
 
