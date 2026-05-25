@@ -36,10 +36,3 @@
 
 [![SouzaLuis](https://img.shields.io/github/followers/SouzaLuis?label=Follow&style=social)](https://github.com/SouzaLuis)
 
-<br/>
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SouzaLuis&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLuis&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
