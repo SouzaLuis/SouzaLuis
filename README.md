@@ -1,15 +1,14 @@
 # Hi, I'm Luís Souza 🖖
 
-### Specialist in Software Development — PUC Minas  
-### Bachelor's Degree in Information Systems — FAFRAM/SP  
-### Software Developer at Simova — Mid-Level II  
-
-### Portuguese • English • Spanish
+#### Specialist in Software Development — PUC Minas  
+#### Bachelor's Degree in Information Systems — FAFRAM/SP  
+#### Software Developer at Simova — Mid-Level II  
+#### Portuguese • English • Spanish
 
 ![](https://komarev.com/ghpvc/?username=SouzaLuis&color=006bed)
 
 <br/>
-
+## Technologies:
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
