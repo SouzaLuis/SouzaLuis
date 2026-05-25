@@ -1,14 +1,16 @@
 # Hi, I'm Luís Souza 🖖
 
+### Software Developer at Simova — Mid-Level II 
 #### Specialist in Software Development — PUC Minas  
 #### Bachelor's Degree in Information Systems — FAFRAM/SP  
-#### Software Developer at Simova — Mid-Level II  
 #### Portuguese • English • Spanish
 
 ![](https://komarev.com/ghpvc/?username=SouzaLuis&color=006bed)
 
 <br/>
+
 ## Technologies:
+
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
@@ -24,7 +26,7 @@
 
 <br/>
 
-### Always improving myself through technology, learning and new challenges.
+### Always improving through technology, learning and new challenges.
 
 <h3>:earth_americas: Where to find me</h3>
 
@@ -33,3 +35,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfernandoalvesdesouza0123@gmail.com)](mailto:luisfernandoalvesdesouza0123@gmail.com)
 
 [![SouzaLuis](https://img.shields.io/github/followers/SouzaLuis?label=Follow&style=social)](https://github.com/SouzaLuis)
+
+<br/>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SouzaLuis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLuis&layout=compact&langs_count=7&theme=github_dark" />
+</div>
