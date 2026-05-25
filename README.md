@@ -30,9 +30,5 @@
 
 <h3>:earth_americas: Where to find me</h3>
 
-[![Linkedin: luissouzadev](https://img.shields.io/badge/-luissouzadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luissouzadev/)](https://www.linkedin.com/in/luissouzadev/)
-
-[![Gmail Badge](https://img.shields.io/badge/Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfernandoalvesdesouza0123@gmail.com)](mailto:luisfernandoalvesdesouza0123@gmail.com)
-
-[![SouzaLuis](https://img.shields.io/github/followers/SouzaLuis?label=Follow&style=social)](https://github.com/SouzaLuis)
+[![Linkedin: luissouzadev](https://img.shields.io/badge/-luissouzadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luissouzadev/)](https://www.linkedin.com/in/luissouzadev/) [![Gmail Badge](https://img.shields.io/badge/Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfernandoalvesdesouza0123@gmail.com)](mailto:luisfernandoalvesdesouza0123@gmail.com) [![SouzaLuis](https://img.shields.io/github/followers/SouzaLuis?label=Follow&style=social)](https://github.com/SouzaLuis)
 
