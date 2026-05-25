@@ -1,8 +1,11 @@
-# Hi, i'm Luís Souza 🖖
-# Spelialist in Software Development - PUC/MG and Bachelor in Information Systemn - FAFRAM/SP
-# Software Developer at Simova - Middle II
-# Portuguese - Spanish - English
-  
+# Hi, I'm Luís Souza 🖖
+
+### Specialist in Software Development — PUC Minas  
+### Bachelor's Degree in Information Systems — FAFRAM/SP  
+### Software Developer at Simova — Mid-Level II  
+
+### Portuguese • English • Spanish
+
 ![](https://komarev.com/ghpvc/?username=SouzaLuis&color=006bed)
 
 <br/>
@@ -19,11 +22,15 @@
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </div>
+
 <br/>
 
-# Always improving myself
-<h3> :earth_americas: &nbsp;Where find me: </h3> 
+### Always improving myself through technology, learning and new challenges.
+
+<h3>:earth_americas: Where to find me</h3>
+
 [![Linkedin: luissouzadev](https://img.shields.io/badge/-luissouzadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luissouzadev/)](https://www.linkedin.com/in/luissouzadev/)
-[![Gmail Badge](https://img.shields.io/badge/luissouzadev-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfernandoalvesdesouza0123@gmail.com)](mailto:luisfernandoalvesdesouza0123@gmail.com)
-[![SouzaLuis]( https://img.shields.io/github/followers/SouzaLuis?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/SouzaLuis))
- 
+
+[![Gmail Badge](https://img.shields.io/badge/Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfernandoalvesdesouza0123@gmail.com)](mailto:luisfernandoalvesdesouza0123@gmail.com)
+
+[![SouzaLuis](https://img.shields.io/github/followers/SouzaLuis?label=Follow&style=social)](https://github.com/SouzaLuis)
