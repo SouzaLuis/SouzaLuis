@@ -1,29 +1,28 @@
 # Hi, i'm Luís Souza 🖖
+# Spelialist in Software Development - PUC/MG and Bachelor in Information Systemn - FAFRAM/SP
+# Software Developer at Simova - Middle II
+# Portuguese - Spanish - English
   
 ![](https://komarev.com/ghpvc/?username=SouzaLuis&color=006bed)
 
-<h3> 👨‍💻: &nbsp;About me </h3>
-
-- 🤔 &nbsp; Exploring new technologies to improve myself every day.
-- 🎓 &nbsp; Graduated in  **Information Systems** on <a href="[link da sua faculdade](https://www.fafram.com.br/)">FAFRAM</a>.
-- 🎓 &nbsp; Specialist in  **Software Engineering** on <a href="[link da sua faculdade]([https://www.fafram.com.br/](https://www.pucminas.br/destaques/Paginas/default.aspx))">PUC-MG</a>.
-- 💼 &nbsp; Im a **Middle Software Developer** on <a href="[LINK DA EMPRESA](https://www.simova.com.br/home-simova-english)">SIMOVA</a>
-- 🌱 &nbsp; Learning more about **Laravel, PHP, React, Node.js and Javascript**.
-
 <br/>
 
-<a href="https://github.com/SouzaLuis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLuis&theme=dracula&hide_langs_below=1" />
-</a>
-
-
-
-
-
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</div>
 <br/>
 
+# Always improving myself
 <h3> :earth_americas: &nbsp;Where find me: </h3> 
-
 [![Linkedin: luissouzadev](https://img.shields.io/badge/-luissouzadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luissouzadev/)](https://www.linkedin.com/in/luissouzadev/)
 [![Gmail Badge](https://img.shields.io/badge/luissouzadev-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisfernandoalvesdesouza0123@gmail.com)](mailto:luisfernandoalvesdesouza0123@gmail.com)
 [![SouzaLuis]( https://img.shields.io/github/followers/SouzaLuis?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/SouzaLuis))
